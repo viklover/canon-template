@@ -10,3 +10,9 @@ conan install conanfile.py
 ```bash
 conan build .
 ```
+
+## Запуск
+```bash
+cd build
+./conan-test
+```
